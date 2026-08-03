@@ -2,7 +2,7 @@
 
 Welcome to my central credentials repository! Here is the complete list of my professional certifications, licenses, and technical tracks in **Data Analytics**, **Data Engineering**,and **AI**.
 
-[← Back to Main GitHub Profile](https://github.com/davidsebastianart) | [Explore Projects Repository](https://github.com/davidsebastianart?tab=repositories) | [Tableau Public Profile](https://public.tableau.com/profile/david.sebastian6737)
+[← Back to Main GitHub Profile](https://davidsebastianart.github.io/) | [Explore Projects Repository](https://github.com/davidsebastianart?tab=repositories) | [Tableau Public Profile](https://public.tableau.com/profile/david.sebastian6737)
 
 ---
 
