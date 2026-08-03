@@ -14,8 +14,8 @@ Welcome to my central credentials repository! Here is the complete list of my pr
 | 2024 | Data Analyst | Badan Nasional Sertifikasi Profesi (BNSP) | [View PDF](./files/2024-BNSP-Data-Analyst.pdf) | [Verify Link](./files/2024-BNSP-Data-Analyst.pdf) |
 | 2025 – 2026 | Associate Data Engineer in SQL | DataCamp | [View PDF](./files/2026-DataCamp-Associate-Data-Engineer-SQL.pdf) | [Verify Link](https://www.datacamp.com/completed/statement-of-accomplishment/track/4a4d65154f048c986dc68355f0e065a36455f650) |
 | 2025 – 2026 | Intermediate SQL & Python | DataCamp | [View PDF](./files/2026-DataCamp-Intermediate-SQL-Python.pdf) | [Verify Link](https://datacamp.com/verify/example) |
-| 2025 – 2026 | Data Analysis in Excel | DataCamp | [View PDF](./files/2026-DataCamp-Data-Analysis-Excel-CPE.pdf) | [Verify Link]([https://datacamp.com/verify/example](https://www.datacamp.com/skill-verification/CPE0454150379754) |
-| 2025 – 2026 | Data Preparation in Excel | DataCamp | [View PDF](./files/2026-DataCamp-Data-Preparation-Excel-CPE.pdf) | [Verify Link]([https://datacamp.com/verify/example](https://www.datacamp.com/skill-verification/CPE0285370432322) |
+| 2025 – 2026 | Data Analysis in Excel | DataCamp | [View PDF](./files/2026-DataCamp-Data-Analysis-Excel-CPE.pdf) | [Verify Link](https://www.datacamp.com/skill-verification/CPE0454150379754) |
+| 2025 – 2026 | Data Preparation in Excel | DataCamp | [View PDF](./files/2026-DataCamp-Data-Preparation-Excel-CPE.pdf) | [Verify Link](https://www.datacamp.com/skill-verification/CPE0285370432322) |
 
 ---
 
