@@ -13,11 +13,11 @@ Welcome to my central credentials repository! Here is the complete list of my pr
 | Jul 2026 | Google Data Analytics | Google (via Coursera) | [View PDF](./files/2026-Google-Data-Analytics.pdf) | [Verify Link](https://coursera.org/share/5219503c9129dfccd17d5f852f708cc3) |
 | Sept 2024 | Data Analyst | Badan Nasional Sertifikasi Profesi (BNSP) | [View PDF](./files/2024-BNSP-Data-Analyst.pdf) | [Verify Link](./files/2024-BNSP-Data-Analyst.pdf) |
 | Jan 2026 | Associate Data Engineer in SQL | DataCamp | [View PDF](./files/2026-DataCamp-Associate-Data-Engineer-SQL.pdf) | [Verify Link](https://www.datacamp.com/completed/statement-of-accomplishment/track/4a4d65154f048c986dc68355f0e065a36455f650) |
+| Feb 2026 | Data Analysis in Excel | DataCamp | [View PDF](./files/2026-DataCamp-Data-Analysis-Excel-CPE.pdf) | [Verify Link](https://www.datacamp.com/skill-verification/CPE0454150379754) |
+| Feb 2026 | Data Preparation in Excel | DataCamp | [View PDF](./files/2026-DataCamp-Data-Preparation-Excel-CPE.pdf) | [Verify Link](https://www.datacamp.com/skill-verification/CPE0285370432322) |
 | May 2025 | Intermediate Data Science | Digital Talent Scholarship | [View PDF](./files/2026-DataCamp-Intermediate-SQL.pdf) | [Verify Link](https://digitalent.komdigi.go.id/cek-sertifikat?registrasi=19510809840-65) |
 | May 2025 | Intermediate SQL | DataCamp | [View PDF](./files/2026-DataCamp-Intermediate-SQL.pdf) | [Verify Link](https://www.datacamp.com/completed/statement-of-accomplishment/course/c0a1d47d60173399415c3c820d9cad03f86a0e1f) |
 | Apr 2025 | Intermediate Python | DataCamp | [View PDF](./files/2026-DataCamp-Intermediate-SQL.pdf) | [Verify Link](https://www.datacamp.com/completed/statement-of-accomplishment/course/fa452722bb6c5ca589ac0b4c599506768067a3ad) |
-| Feb 2026 | Data Analysis in Excel | DataCamp | [View PDF](./files/2026-DataCamp-Data-Analysis-Excel-CPE.pdf) | [Verify Link](https://www.datacamp.com/skill-verification/CPE0454150379754) |
-| Feb 2026 | Data Preparation in Excel | DataCamp | [View PDF](./files/2026-DataCamp-Data-Preparation-Excel-CPE.pdf) | [Verify Link](https://www.datacamp.com/skill-verification/CPE0285370432322) |
 
 ---
 
