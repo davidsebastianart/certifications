@@ -1,4 +1,4 @@
-# 📜 Certifications & Professional Credentials
+# 📜 Professional Certifications 
 
 Welcome to my central credentials repository! Here is the complete list of my professional certifications, licenses, and technical tracks in **Data Analytics**, **Data Engineering**,and **AI**.
 
