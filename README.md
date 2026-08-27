@@ -10,7 +10,6 @@ Welcome to my central credentials repository! Here is the complete list of my pr
 
 | Year / Date | Certificate Name | Issuer / Provider | Document (PDF) | Credential / Verify |
 | :---: | :--- | :--- | :---: | :---: |
-| Aug 2026 | AI Fundamentals | DataCamp | [View PDF](./files/2026-DataCamp-AI-Fundamentals.pdf) | [Verify Link](https://www.datacamp.com/skill-verification/AIF0023011158278) |
 | Jul 2026 | Google Data Analytics | Google (via Coursera) | [View PDF](./files/2026-Google-Data-Analytics.pdf) | [Verify Link](https://coursera.org/share/5219503c9129dfccd17d5f852f708cc3) |
 | Sep 2024 | Data Analyst | Badan Nasional Sertifikasi Profesi (BNSP) | [View PDF](./files/2024-BNSP-Data-Analyst.pdf) | [Verify Link](./files/2024-BNSP-Data-Analyst.pdf) |
 | Jan 2026 | Associate Data Engineer in SQL | DataCamp | [View PDF](./files/2026-DataCamp-Associate-Data-Engineer-SQL.pdf) | [Verify Link](https://www.datacamp.com/completed/statement-of-accomplishment/track/4a4d65154f048c986dc68355f0e065a36455f650) |
@@ -26,6 +25,7 @@ Welcome to my central credentials repository! Here is the complete list of my pr
 
 | Year / Date | Certificate Name | Issuer / Provider | Document (PDF) | Credential / Verify |
 | :---: | :--- | :--- | :---: | :---: |
+| Aug 2026 | AI Fundamentals | DataCamp | [View PDF](./files/2026-DataCamp-AI-Fundamentals.pdf) | [Verify Link](https://www.datacamp.com/skill-verification/AIF0023011158278) |
 | Jul 2026 | Google AI | Google (via Coursera) | [View PDF](./files/2026-Google-AI.pdf) | [Verify Link](https://coursera.org/share/bf1e549c6a9cfbea8df8adf5ff4506db) |
 | Jul 2026 | Business Analysis & Process Management | Coursera | [View PDF](./files/2026-Business-Analysis-Process-Management.pdf) | [Verify Link](https://coursera.org/share/d0fcf03d692d58b414731b9ecaf48c72) |
 
